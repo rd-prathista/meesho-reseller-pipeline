@@ -142,6 +142,5 @@ or Part 2 calculation. The runner makes no network calls.
 
 The implementation uses Python standard-library modules including
 `csv`, `sqlite3`, `json`, `pathlib`, `argparse`, and `unittest`.
-If official Python documentation was consulted during implementation,
-list the specific pages consulted here before submission. Do not
-claim to have consulted a page that you did not actually use.
+No official Python documentation was consulted during implementation.
+If you did consult any, list the actual pages instead.
